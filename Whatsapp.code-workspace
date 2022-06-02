@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "..\\volvo"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "volvo"
+    }
+}
